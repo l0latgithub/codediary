@@ -1,5 +1,9 @@
 class Solution:
     def rotateRight(self, head: ListNode, k: int) -> ListNode:
+
+	"""
+	Given the head of a linked list, rotate the list to the right by k places.
+	"""
         
         if k==0 or not head or not head.next:
             return head
