@@ -1,6 +1,9 @@
 class Solution:
     def swapPairs(self, head: ListNode) -> ListNode:
-        
+        """
+	Given a linked list, swap every two adjacent nodes and return its head.
+	"""
+
         run = ListNode(0, head)
         ans = run
         
