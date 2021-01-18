@@ -6,4 +6,4 @@ Life is unpredictable and I did not pursue my software engineer career. Instead 
 
 In 2020, life had so many changes and made me think about what to do for the future. Do I want a job or a career? Can I do something that could bring my family a better life and something positive for other people. 
 
-I realized software engineer and machine learning are something I really want to do, Here is my diary for coding and will do things enthusiastically everyday!
+I realized software engineer and machine learning are something I really want to do, Here is my coding diary and will do things enthusiastically everyday!
