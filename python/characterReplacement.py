@@ -17,7 +17,7 @@ class Solution:
         
         maxfreq = 0
         
-        lo
+        lo=0
         for hi, char in enumerate(s):
             
             chardict[char]=chardict.get(char, 0)+1
